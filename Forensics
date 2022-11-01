@@ -5,3 +5,11 @@ Physical Damaged Identified:
 Physical Damage not Identified:
   *Electronic components attacked using Microwave
   *Hardware or software malfunction
+  
+  
+Phases in Drone Forensics:
+1. Incident Response
+2. Data Collection 
+3. Analysis
+4. Report findings
+5. Incident closure
