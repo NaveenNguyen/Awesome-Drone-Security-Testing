@@ -5,17 +5,21 @@ Hardware
 *Identifying communication/programming interfaces
 *Dumping the firmware
 
-Radio
+Radio (including GPS)
 *Identifying the radio frequency
 *Capturing the signals
 *Signal analysis
 *Replay attack
 *Signal jamming
+*Spoofing attacks
 
 WiFi
 *WiFi information gathering such as encryption type, frequency, etc
 *Authentication/Authorization bypass
 *Wi-Fi jamming
+*Wi-Fi spoofing
+*Wi-Fi replay attacks
+*Wi-Fi Deauthentication
 
 
 ServerApplications
@@ -28,4 +32,14 @@ Firmware
 *Obtain the firmware
 *Analyze for sensitive information such as API keys, API endpoints
 *Embed backdoor
+*Malicious software installation (Malwares)
+*Buffer Overflow
+
+
+
+Miscellaneous
+*Injection/Modification attacks
+*DOS attack
+*Transmitted Data spoofing
+
 
