@@ -1,0 +1,31 @@
+Hardware
+*Bypassing tamper protection
+*Identifying various electronic components, IC's and chips
+*OSINT using the FCCID, name and other information gathered
+*Identifying communication/programming interfaces
+*Dumping the firmware
+
+Radio
+*Identifying the radio frequency
+*Capturing the signals
+*Signal analysis
+*Replay attack
+*Signal jamming
+
+WiFi
+*WiFi information gathering such as encryption type, frequency, etc
+*Authentication/Authorization bypass
+*Wi-Fi jamming
+
+
+ServerApplications
+*Mobile:
+  *OWASP Mobile assessment checklist
+*Desktop
+  *OWASP thick client assessment checklist
+  
+Firmware
+*Obtain the firmware
+*Analyze for sensitive information such as API keys, API endpoints
+*Embed backdoor
+
